@@ -67,4 +67,4 @@ Karthikeyan
 
 ---
 
-images/Dashboard.jpeg
+![Dashboard](images/Dashboard.jpeg)
